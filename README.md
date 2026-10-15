@@ -1,16 +1,41 @@
-## Hi there 👋
+# Xingwei
 
-<!--
-**Xingwei0724/Xingwei0724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD student in **Computational Mathematics** at **Beijing Normal University**.
 
-Here are some ideas to get you started:
+I study finite element methods for micromagnetics. My work combines algorithm design, numerical analysis, and computational experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [CFL_energy_bdf2](https://github.com/Thingwayy/CFL_energy_bdf2)
+
+BDF2 finite element experiments for Landau-Lifshitz-type equations with unit-length constraints.
+
+- **Methods:** Q1 elements, GLL quadrature, normalized extrapolation, and nodal projection.
+- **Implementation:** Python and FEniCSx/DOLFINx, with PETSc solvers.
+- **Numerical experiments:** 2D/3D temporal and spatial self-convergence studies.
+- **My work:** algorithm design and theoretical analysis, Python implementation, experimental design, and error analysis.
+
+[Run the experiments](https://github.com/Thingwayy/CFL_energy_bdf2#running-convergence-tests) · [Browse the code](https://github.com/Thingwayy/CFL_energy_bdf2/tree/main/convergence)
+
+## Work in progress
+
+- **Multiphysics coupling:** numerical methods for coupled PDE systems.
+- **Adaptive finite element methods:** adaptive discretization for PDEs.
+- **Lean formalization:** formalizing parts of my numerical analysis research towards machine-checkable mathematical proofs.
+
+## Research interests
+
+- Numerical PDEs and finite element methods.
+- Time integration for constrained systems.
+- AI for Science.
+
+I am interested in research and internship opportunities in scientific computing and AI for Science.
+
+## Tools
+
+Python · FEniCSx/DOLFINx · FreeFem · MATLAB · deal.II (learning)  
+Lean · ParaView · Tecplot · LaTeX
+
+## Contact
+
+[xingwei.yang@mail.bnu.edu.cn](mailto:xingwei.yang@mail.bnu.edu.cn)
