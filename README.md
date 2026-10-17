@@ -4,19 +4,6 @@ PhD student in **Computational Mathematics** at **Beijing Normal University**.
 
 I study finite element methods for micromagnetics. My work combines algorithm design, numerical analysis, and computational experiments.
 
-## Featured project
-
-### [CFL_energy_bdf2](https://github.com/Thingwayy/CFL_energy_bdf2)
-
-BDF2 finite element experiments for Landau-Lifshitz-type equations with unit-length constraints.
-
-- **Methods:** Q1 elements, GLL quadrature, normalized extrapolation, and nodal projection.
-- **Implementation:** Python and FEniCSx/DOLFINx, with PETSc solvers.
-- **Numerical experiments:** 2D/3D temporal and spatial self-convergence studies.
-- **My work:** algorithm design and theoretical analysis, Python implementation, experimental design, and error analysis.
-
-[Run the experiments](https://github.com/Thingwayy/CFL_energy_bdf2#running-convergence-tests) · [Browse the code](https://github.com/Thingwayy/CFL_energy_bdf2/tree/main/convergence)
-
 ## Work in progress
 
 - **Multiphysics coupling:** numerical methods for coupled PDE systems.
